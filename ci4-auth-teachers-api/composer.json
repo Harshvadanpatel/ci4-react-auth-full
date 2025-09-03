@@ -1,0 +1,14 @@
+{
+  "name": "ci4-auth-teachers-api",
+  "description": "CodeIgniter 4 API with JWT auth and teachers 1-1 profile",
+  "type": "project",
+  "require": {
+    "codeigniter4/framework": "^4.5",
+    "firebase/php-jwt": "^6.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

@@ -63,27 +63,23 @@ Copy code
 mysql -u root -p ci_auth < ../sql/schema.mysql.sql
 Start server:
 
-bash
-Copy code
+
 php spark serve
 Runs at: http://localhost:8080
 
 💻 Frontend (React + Vite)
 Go to frontend folder:
 
-bash
-Copy code
+
 cd react-auth-teachers-ui
 npm install
 Copy .env.example → .env
 
-env
-Copy code
+
 VITE_API_BASE=http://localhost:8080/api
 Run frontend:
 
-bash
-Copy code
+
 npm run dev
 Runs at: http://localhost:5173
 
@@ -130,8 +126,7 @@ GitHub: Harshvadanpatel
 
 LinkedIn: Harshvadan Patel
 
-yaml
-Copy code
+\
 
 ---
 

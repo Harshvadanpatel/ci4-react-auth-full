@@ -10,8 +10,7 @@ It implements **JWT-based authentication** and demonstrates a **1–1 relationsh
 ├── react-auth-teachers-ui # Frontend (React + Vite)
 └── sql # Database schema & seeds
 
-yaml
-Copy code
+
 
 ---
 
@@ -136,11 +135,4 @@ Copy code
 
 ---
 
-✅ Just create a `README.md` file at the root of your repo and paste this in.  
-Would you like me to also prepare a **mini README.md for each subfolder** (`backend` and `frontend`) so they look professional when opened separately?
 
-
-
-
-
-You said:
